@@ -1,4 +1,80 @@
 {
   "blogs": [],
-  "projects": []
+  "projects": [
+    {
+      "title": "Farfetch Clone",
+      "description": "Farfetch is a British-Portuguese online luxury fashion retail platform that sells products from over 700 boutiques and brands from around the world. The company was founded in 2007 by the Portuguese entrepreneur José Neves with its headquarters in London and main branches in Lisbon and Porto.",
+      "techstack": [
+        "https://img.icons8.com/color/48/null/html-5--v1.png",
+        "https://img.icons8.com/color/48/null/css3.png",
+        "https://img.icons8.com/color/48/null/javascript--v1.png",
+        "https://img.icons8.com/color/48/null/redux.png",
+        "https://img.icons8.com/plasticine/48/null/react.png",
+        "https://img.icons8.com/fluency/48/null/typescript--v2.png",
+        "https://img.icons8.com/color/48/null/tailwindcss.png",
+        "https://img.icons8.com/fluency/48/000000/node-js.png",
+        "https://cdn.iconscout.com/icon/free/png-512/jest-3521517-2945020.png?f=avif&w=48",
+        "https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png?f=avif&w=48",
+        "https://img.icons8.com/color/48/null/npm.png",
+        "https://img.icons8.com/ios-glyphs/48/null/github.png",
+        "https://cdn-icons-png.flaticon.com/32/2857/2857406.png"
+      ],
+      "github": "",
+      "site": ""
+    }
+  ],
+  "techstack": [
+    {
+      "name": "https://img.icons8.com/color/48/null/html-5--v1.png",
+      "link": "HTML"
+    },
+    {
+      "name": "https://img.icons8.com/color/48/null/css3.png",
+      "link": "CSS"
+    },
+    {
+      "name": "https://img.icons8.com/color/48/null/javascript--v1.png",
+      "link": "JavaScript"
+    },
+    {
+      "name": "https://img.icons8.com/fluency/48/null/typescript--v2.png",
+      "link": "TypeScript"
+    },
+    {
+      "name": "https://cdn-icons-png.flaticon.com/32/2857/2857406.png",
+      "link": "Data Structures & Algorithms"
+    },
+    {
+      "name": "https://img.icons8.com/plasticine/48/null/react.png",
+      "link": "React"
+    },
+    {
+      "name": "https://img.icons8.com/color/48/null/redux.png",
+      "link": "Redux"
+    },
+    {
+      "name": "https://img.icons8.com/fluency/48/000000/node-js.png",
+      "link": "Node"
+    },
+    {
+      "name": "https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png?f=avif&w=48",
+      "link": "Mongo DB"
+    },
+    {
+      "name": "https://cdn.iconscout.com/icon/free/png-512/jest-3521517-2945020.png?f=avif&w=48",
+      "link": "Jest"
+    },
+    {
+      "name": "https://img.icons8.com/color/48/null/tailwindcss.png",
+      "link": "Tailwind"
+    },
+    {
+      "name": "https://img.icons8.com/color/48/null/npm.png",
+      "link": "Npm"
+    },
+    {
+      "name": "https://img.icons8.com/ios-glyphs/48/null/github.png",
+      "link": "Github"
+    }
+  ]
 }
